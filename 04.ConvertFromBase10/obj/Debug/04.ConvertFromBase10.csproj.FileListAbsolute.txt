@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\04.ConvertFromBase10\bin\Debug\04.ConvertFromBase10.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\04.ConvertFromBase10\bin\Debug\04.ConvertFromBase10.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\04.ConvertFromBase10\bin\Debug\04.ConvertFromBase10.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\04.ConvertFromBase10\obj\Debug\04.ConvertFromBase10.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\04.ConvertFromBase10\obj\Debug\04.ConvertFromBase10.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\04.ConvertFromBase10\obj\Debug\04.ConvertFromBase10.pdb

@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.exe
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\03.FormattingNumbers\bin\Debug\03.FormattingNumbers.pdb
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.exe
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\03.FormattingNumbers\obj\Debug\03.FormattingNumbers.pdb

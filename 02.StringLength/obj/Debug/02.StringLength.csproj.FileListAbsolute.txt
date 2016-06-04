@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.exe
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.pdb
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.exe
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.pdb

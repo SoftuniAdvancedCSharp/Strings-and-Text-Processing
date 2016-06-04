@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

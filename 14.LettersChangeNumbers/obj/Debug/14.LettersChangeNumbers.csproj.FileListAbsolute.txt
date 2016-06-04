@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\14.LettersChangeNumbers\bin\Debug\14.LettersChangeNumbers.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\14.LettersChangeNumbers\obj\Debug\14.LettersChangeNumbers.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\14.LettersChangeNumbers\obj\Debug\14.LettersChangeNumbers.pdb

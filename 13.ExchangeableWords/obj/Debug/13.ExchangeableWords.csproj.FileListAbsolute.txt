@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\13.ExchangeableWords\bin\Debug\13.ExchangeableWords.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\13.ExchangeableWords\bin\Debug\13.ExchangeableWords.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\13.ExchangeableWords\bin\Debug\13.ExchangeableWords.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\13.ExchangeableWords\obj\Debug\13.ExchangeableWords.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\13.ExchangeableWords\obj\Debug\13.ExchangeableWords.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\StringsAndTextProcessing\13.ExchangeableWords\obj\Debug\13.ExchangeableWords.pdb

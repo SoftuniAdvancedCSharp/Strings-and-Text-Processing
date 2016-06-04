@@ -1,0 +1,1 @@
+c:\users\pc\documents\visual studio 2015\Projects\StringsAndTextProcessing\01..ReverseString\bin\Debug\_01._.ReverseString.exe.config
